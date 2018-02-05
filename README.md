@@ -1,3 +1,3 @@
 # Exlade Disk Password Protection Releases
 
-v5.4.3
+v5.5.0
